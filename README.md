@@ -8,3 +8,5 @@ The original transport model was described by Bastien Girod: https://www.science
 With recent data and updates from Oreane Edelenbosch. The model was developed by Sebastiaan Deetman (deetman@cml.leidenuniv.nl) with lots of data input from Rombout Huisman.
 
 This model uses the python Dynamic Stock module as developed by Stefan Pauliuk, Uni Freiburg, Germany. For the original code & latest updates of that module, please see: https://github.com/IndEcol/ODYM
+
+Please do not use any parts of the model or its results without consent of the author (deetman@cml.leidenuniv.nl)
