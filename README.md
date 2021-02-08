@@ -9,4 +9,4 @@ With recent data and updates from Oreane Edelenbosch. The model was developed by
 
 This model uses the python Dynamic Stock module as developed by Stefan Pauliuk, Uni Freiburg, Germany. For the original code & latest updates of that module, please see: https://github.com/IndEcol/ODYM
 
-Please do not use any parts of the model or its results without consent of the author (deetman@cml.leidenuniv.nl)
+This version is provided for review purposes only, please do not use any parts of the model or its results without consent of the author (deetman@cml.leidenuniv.nl)
